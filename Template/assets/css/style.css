@@ -71,6 +71,27 @@ body {
   font-family: var(--mainfontFamily);
   font-size: var(--fontSize);
 }
+.containerr {
+  display: flex;
+  justify-content: center;
+}
+
+.genres {
+  text-align: center;
+}
+
+.sub-genres {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.sub-genres a {
+  display: block;
+  text-decoration: none;
+}
+
 
 a {
   -webkit-transition: var(--transition);
