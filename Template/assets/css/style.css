@@ -1171,7 +1171,7 @@ Reviews Area CSS
 Fun Facts Area CSS
 =================================================*/
 .fun-facts-area {
-  background-image: url(../../assets/img/fun-facts-bg.jpg);
+  background-image: url(../../assets/img/bannerfunfact.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1194,7 +1194,7 @@ Fun Facts Area CSS
 }
 
 .fun-facts-area.bg-ffffff {
-  background-image: url(../../assets/img/fun-facts-bg2.jpg);
+  background-image: url(../../assets/img/bannerfunfact.jpg);
 }
 
 .fun-facts-area.bg-transparent {
